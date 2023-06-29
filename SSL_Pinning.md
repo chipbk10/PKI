@@ -19,3 +19,7 @@
 - We keep the public key of the server’s certificate in our code
 - We do the same, we compare the public key of the certificate with the one we have in our code
 - Pros: we don’t need to release a new build, because the public key remains the same, even if the certificate is changed
+
+## Sources
+
+- [iOS SSL-Pinning](https://www.youtube.com/watch?v=HWJ3cCNdKKA&ab_channel=iCode)
