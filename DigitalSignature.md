@@ -22,7 +22,9 @@
 
 ## Application
 
-- 
+- [Code Signing](): Digitally signed code allows for the verification of its authenticity and integrity. Is the code you’re about to run really from the vendor you think it’s from? Has it been altered?
+- [Document Signing](): The digital signature will be embedded in document like PDF, Word, etc.
+- Emails: can be digitally signed. By protecting your email, you can be assured that the email has not been altered in transit, and that it is from someone you trust. This is an excellent way to fight phishing and malicious spam.
 
 ## Sources
 
