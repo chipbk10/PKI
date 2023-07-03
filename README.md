@@ -5,5 +5,5 @@
 ## [SSL Pinning](https://github.com/chipbk10/PKI/blob/main/SSL_Pinning.md)
 ## [Obfuscation](https://github.com/chipbk10/PKI/blob/main/Obfuscation.md)
 ## [OAuth](https://github.com/chipbk10/PKI/blob/main/OAuth.md)
-## [SSO]((https://github.com/chipbk10/PKI/blob/main/SSO.md)
-## [JWT]((https://github.com/chipbk10/PKI/blob/main/JWT.md)
+## [SSO](https://github.com/chipbk10/PKI/blob/main/SSO.md)
+## [JWT](https://github.com/chipbk10/PKI/blob/main/JWT.md)
