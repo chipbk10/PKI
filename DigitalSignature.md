@@ -7,6 +7,8 @@
   - **Integrity**: confirming that the data has not been altered since it was signed
   - **Non-Repudiation**: with digital signature, the sender cannot deny having sent the message later on
  
+- Note that the Digital Signature is not to provide confidentiality. Anyone can read the document.
+ 
 ## Under the hood
 
 - The sender wants to send a document with his digital signature to a receiver
