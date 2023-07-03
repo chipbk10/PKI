@@ -11,7 +11,7 @@
 
 - The sender wants to send a document with his digital signature to a receiver
 - The sender will pass the document to a [hash]() function to generate a [digest]()
-- The sender uses his private key to encrypt the digest (digitial signature - a signed hash)
+- The sender uses his private key to encrypt the digest (**digitial signature** - a signed hash)
 - The sender sends the document + encrypted digest + [certificate]()
 - The receiver checks if the certificate is issued by a trusted CA
 - The receiver uses the public key in the certificate to decrypt the encrypted digest
